@@ -47,7 +47,7 @@ A secure note-taking Android app with self-destructing messages, user authentica
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/CiaranCardenn/HonoursProject-Ciaran_Carden_B01653760p.git
+git clone https://github.com/CiaranCardenn/HonoursProject-Ciaran_Carden_B01653760.git
 ```
 
 2. Open the project in Android Studio
