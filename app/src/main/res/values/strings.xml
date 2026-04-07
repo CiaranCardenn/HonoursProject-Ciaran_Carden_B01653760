@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Secret Notes</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="encrypted_notes">Encrypted Notes</string>
+    <string name="default_web_client_id">735451697568-o3r4g3n8a2h1g928hu94olo6j213o1s7.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.HonourProject" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/dark_beige</item>
+        <item name="colorPrimaryVariant">@color/dark_beige</item>
+        <item name="colorOnPrimary">@color/pure_white</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/dark_beige</item>
+        <item name="colorSecondaryVariant">@color/dark_beige</item>
+        <item name="colorOnSecondary">@color/pure_white</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/background_beige</item>
+        <item name="android:colorBackground">@color/background_beige</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/dark_beige</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/text_dark</item>
+        <item name="android:textColorSecondary">@color/text_hint</item>
+    </style>
+
+    <!-- Theme for LoginActivity - No Action Bar -->
+    <style name="Theme.HonourProject.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/dark_beige</item>
+        <item name="colorPrimaryVariant">@color/dark_beige</item>
+        <item name="colorOnPrimary">@color/pure_white</item>
+        <item name="colorSecondary">@color/dark_beige</item>
+        <item name="colorSecondaryVariant">@color/dark_beige</item>
+        <item name="colorOnSecondary">@color/pure_white</item>
+        <item name="android:windowBackground">@color/background_beige</item>
+        <item name="android:colorBackground">@color/background_beige</item>
+        <item name="android:statusBarColor">@color/dark_beige</item>
+    </style>
+
+    <!-- Style for Settings cards -->
+    <style name="SettingsCardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/pure_white</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">4dp</item>
+    </style>
+
+    <!-- Style for Text Fields -->
+    <style name="CustomTextInputStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@color/pure_white</item>
+        <item name="boxStrokeColor">@color/dark_beige</item>
+        <item name="hintTextColor">@color/text_hint</item>
+    </style>
+</resources>
