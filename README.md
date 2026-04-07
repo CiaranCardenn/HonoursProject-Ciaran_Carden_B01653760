@@ -86,5 +86,5 @@ git clone https://github.com/CiaranCardenn/HonoursProject-Ciaran_Carden_B0165376
 
 ### Contact
 Ciaran Carden 
-Education - B0163760@studentmail.uws.ac.uk
-Personal - ciarancarden233@icloud.com
+1. Education - B0163760@studentmail.uws.ac.uk
+2. Personal - ciarancarden233@icloud.com
